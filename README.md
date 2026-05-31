@@ -10,3 +10,4 @@ Projektbeschreibung:
 
 Programm, wo man CSV-Datei hochladen kann und diese als Graph darstellen lassen. Distanz, Exzentrizität, BFS, DFS, Zentrum  kann berechnet werden
 
+# POS-Theorie_Projekt
