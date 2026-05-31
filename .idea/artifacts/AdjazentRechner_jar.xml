@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AdjazentRechner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AdjazentRechner_jar</output-path>
+    <root id="archive" name="AdjazentRechner.jar">
+      <element id="module-output" name="AdjazentRechner" />
+    </root>
+  </artifact>
+</component>
