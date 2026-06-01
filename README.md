@@ -6,6 +6,7 @@ POS -Theorie Projekt
 
 Projektbeschreibung:
 Video-Link: https://1drv.ms/v/c/56693380cadeb488/IQC3_STmKVbdTI9lPwfZ4ZsjAX5VKIt14Vf2mXifLgS77Bc?e=ckIZ52
+Für bessere Qualität bitte Video runterladen...
 
 
 
